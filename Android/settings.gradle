@@ -1,4 +1,0 @@
-include ':app'
-include ':debug'
-include ':tuicallkit'
-include ':tuiofflinepush'
